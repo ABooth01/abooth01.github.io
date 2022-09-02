@@ -1015,28 +1015,6 @@
   overflow: hidden;
   border-top: 1px solid #e5e5e5;
 }
-.tl-timenav .tl-attribution a {
-  color: #cccccc;
-}
-.tl-timenav .tl-attribution a:hover {
-  color: #000;
-  text-decoration: none;
-}
-.tl-timenav .tl-attribution a:hover .tl-knightlab-logo {
-  background-color: #c34528;
-}
-.tl-timenav .tl-attribution .tl-knightlab-logo {
-  display: inline-block;
-  vertical-align: middle;
-  height: 8px;
-  width: 8px;
-  margin-right: 3px;
-  background-color: #c34528;
-  background-color: #cccccc;
-  transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-}
 .tl-timenav .tl-timenav-line {
   position: absolute;
   top: 0;
