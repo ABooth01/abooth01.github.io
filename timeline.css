@@ -2,6 +2,7 @@
 	Timeline JS 3 
 	
 	Designed and built by Zach Wise for the Northwestern University Knight Lab
+  Custom CSS by Adam Booth for the Environment Agency
 	
 	This Source Code Form is subject to the terms of the Mozilla Public
 	License, v. 2.0. If a copy of the MPL was not distributed with this
@@ -1227,7 +1228,7 @@
 }
 .tl-timemarker .tl-timemarker-content-container {
   position: absolute;
-  background-color: #e5e5e5;
+  background-color: #375a3c;
   border: 0;
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
@@ -1281,7 +1282,7 @@
   overflow: hidden;
   font-weight: normal;
   margin: 0;
-  color: #bfbfbf;
+  color: #ffffff;
   position: relative;
 }
 .tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline.tl-headline-fadeout:after,
